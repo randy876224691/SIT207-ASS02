@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Consumption</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title">Consumption</string>
+    <string name="inputname">Username</string>
+    <string name="sex">Gender</string>
+    <string name="sexm">Male</string>
+    <string name="sexf">Female</string>
+    <string name="age">Age</string>
+    <string name="confirm">Confirm</string>
+    <string name="history">History</string>
+    <string name="sporttime">Time:</string>
+    <string name="timeunit">MINS</string>
+    <string name="consumption">Calories Consumption:</string>
+
+    <string name="moreinfo">This app design by Yibing XIE</string>
+
+
+
+    <string name="title_activity_menu">menu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_record">record</string>
+    <string name="title_activity_history">history</string>
+    <string name="title_activity_more">more</string>
+    <string name="title_activity_more_sportnote">more_sportnote</string>
+    <string name="title_activity_more_foodnote">more_foodnote</string>
+    <string name="userchange">User Change</string>
+
+
+    <string name="foodnote1">As computer to power, to fuel trucks, but also the daily activities of the human body burns calories. In addition to giving the heat energy in motion, work and daily life needs, but also provides activities of human life require energy, blood circulation, respiration, digestion and absorption, and so on.</string>
+    <string name="foodnote2">The three kinds of calories sources</string>
+    <string name="foodnote3">Carbohydrates, fats, proteins</string>
+    <string name="foodnote4">What is the best thing to eat before a workout, game, or race? </string>
+    <string name="foodnote5">a low-fat, high-carb meal or snack one to four hours before. </string>
+    <string name="foodnote6">Note: The daily calories provided by food had to be less than in 5000 kJ - 7500 kilojoules which is to maintain normal life of the body activities of the least energy.</string>
+
+
+
+    <string name="sportnote1">Physical labor</string>
+    <string name="sportnote2">Less physical activity ━━ consumption is about 95 kcal per hour, including more time sitting in the work and activities, such as reading, eating, watching movies, listening to the radio, sewing, office work and so on.</string>
+    <string name="sportnote3">Medium Physical labor ━━ average consumption is about 170 kcal per hour, including standing work requires more arm movements (such as traffic police on duty, bandleader) or sedentary but intense arm movements (such as operating heavy machinery, driving tractors), housework, gardening, etc.y</string>
+    <string name="sportnote4">Mental labor</string>
+    <string name="sportnote5">Brain in order to survive, need 0.1 calories per minute. When you concentrate on a crossword puzzle when your brain energy consumption per minute is 1.5 calories. In contrast, when people walking consumes about 4 calories per minute, and that kind of intense exercise such as Taekwondo consumes 10 calories per minute.</string>
+    <string name="title_activity_more_demovideo">more_demovideo</string>
+
+</resources>

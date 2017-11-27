@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.xyib.consumption.menu"
+    android:background="@mipmap/background01">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/menurecord"
+        android:background="@mipmap/buttonstart01"
+        android:layout_marginStart="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="120dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/menuhistory"
+        android:background="@mipmap/buttonstart02"
+        android:layout_alignTop="@+id/menurecord"
+        android:layout_toEndOf="@+id/menurecord"
+        android:layout_marginLeft="20dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/menuexit"
+        android:layout_below="@+id/menuhistory"
+        android:layout_alignEnd="@+id/menuhistory"
+        android:background="@mipmap/buttonstart03"
+        android:layout_marginTop="20dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/menumore"
+        android:layout_below="@+id/menurecord"
+        android:layout_alignStart="@+id/menurecord"
+        android:background="@mipmap/buttonstart04"
+        android:layout_marginTop="20dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:background="@mipmap/logo02"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp" />
+
+</RelativeLayout>
